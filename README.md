@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-green?&logo=Python&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-green?&logo=MSSQL&logoColor=4479A1)
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 #### Technologies
 Technologies that I've been learning and I've picked up along my programming journey.
 
@@ -31,6 +31,9 @@ Technologies that I've been learning and I've picked up along my programming jou
 <!-- ![Grafana](https://img.shields.io/badge/-Grafana-yellow?&logo=Grafana&logoColor=E6522C) -->
 ![Node.js](https://img.shields.io/badge/-Node.js-yellow?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-yellow?&logo=React)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <!-- ![Nginx](https://img.shields.io/badge/-Nginx-yellow?&logo=Nginx&logoColor=269539) -->
 
 ## My Stats
