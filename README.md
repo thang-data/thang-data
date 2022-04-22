@@ -6,7 +6,7 @@
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering.  
-🔭  I am leaning Backend Nodejs and Fontend Reactjs.
+🔭  Currently I am working at Outsourcing technology company.
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages
