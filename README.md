@@ -1,14 +1,10 @@
-<div align="center">
-  <h2> 
-    Hi, there! I am Thang Nguyen <img src="gifs/hi.gif" width="30px">
-  </h2>
-</div>
+### Hi, I'm Thang Nguyen Duc - aka [Data-JS][website] = Software Engineer + Youtuber 🌱 
 
-### 💻 &nbsp;About Me
-🎓  Studying Software Engineering.  
-🔭  Currently I am working at Outsourcing technology company.
+- 🔭 I'm passionate about Machine Learning,Data Engineering and Software Engineer
+- 🥅 Favorite quote: Nothing is impossible without determination.
+- ⚡Fun fact: I love horror because bugs aren't enough to scare 😅
 
-### 🛠 &nbsp;Tech Stack
+### :zap: GitHub Stats
 #### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
